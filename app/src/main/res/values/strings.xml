@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Registration Form App</string>
+    <string name="activity_main_create_account">Create Account</string>
+    <string name="text_view_description">Please fill the input below here</string>
+    <string name="activity_main_first_name">First Name</string>
+    <string name="activity_main_last_name">Last Name</string>
+    <string name="acivity_main_email_hint">Email</string>
+    <string name="activity_main_phone_no_hint">Phone No.</string>
+    <string name="activity_main_password_hint">Password</string>
+    <string name="activity_main_sign_up_hint">SIGN UP</string>
+    <string name="text_view_already_have_a_account_sign_in">Already have a account? Sign in</string>
+    <string name="activity_summary_heading">Mr Fullname User</string>
+</resources>
